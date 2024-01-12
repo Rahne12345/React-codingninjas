@@ -1,2 +1,2 @@
-# React-codingninjsa
+# React-codingninjas
 Auther -Amit Kumar Rai
